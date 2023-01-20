@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Airport.unity
+    guid: b2512484e6e7cda46ad98989f25d8f17
+  - enabled: 1
+    path: Assets/Scenes/Airport-findseat.unity
+    guid: 10fd379529e86b94ab6c9217197a0f81
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE.unity
+    guid: bb02efbd3a303c840bb59ed790f533b0
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE_square.unity
+    guid: 2a7dc3e8e773f1d4083af490bd804ac3
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE_Beiersdorf.unity
+    guid: 49be4234277224e4086aebd7ea80eafd
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE_LORAEL.unity
+    guid: 9d90c304cb490274690ca2a38b97c591
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE_BSH.unity
+    guid: 9c9f8ae63e29e4d44bbac528d1e5a8b1
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE_Coty.unity
+    guid: d955b425aee3e474da211bc09a3a6428
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE_DECATHLON.unity
+    guid: 494638cd7a745d740ab7de0aa92df15b
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE_FORMULA.unity
+    guid: ac9fdcf8d12ac7e4d95f14020e1edf76
+  - enabled: 1
+    path: "Assets/Scenes/CIIE/CIIE_K\xE4rcher.unity"
+    guid: dec389fac14cbbc4aa9584e5f10e80e5
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE_LEGO.unity
+    guid: a6830a02bc6142e498463019d01d34b4
+  - enabled: 1
+    path: Assets/Scenes/CIIE/CIIE_WINZA.unity
+    guid: 738c2275d531aed40b8a2526d2e6db22
+  - enabled: 1
+    path: Assets/Scenes/Harbin/eat-end.unity
+    guid: e45141af5d97df7479606fa5dfec98cb
+  - enabled: 1
+    path: Assets/Scenes/Harbin/eat-entry.unity
+    guid: 0a902139178903b4f93d5d1a03637d1f
+  - enabled: 1
+    path: Assets/Scenes/Harbin/eat-north.unity
+    guid: 5112abf38b8b6e54ca3c477a9b006eda
+  - enabled: 1
+    path: Assets/Scenes/Harbin/eat-south.unity
+    guid: 6b789e4681356304c8398d56599b063f
+  - enabled: 1
+    path: Assets/Scenes/Harbin/eat-west.unity
+    guid: 26535b714f38ab94d8da69d5dee1e12d
+  - enabled: 1
+    path: Assets/Scenes/Harbin/entry.unity
+    guid: 4da6e835540adcb40bab1288479c7b95
+  - enabled: 1
+    path: Assets/Scenes/Harbin/exit.unity
+    guid: f266362dec0ce38448fd846b14827705
+  - enabled: 1
+    path: Assets/Scenes/Harbin/ski-back.unity
+    guid: 77d6bd5405b43ab4ab769d9c32b78b25
+  - enabled: 1
+    path: Assets/Scenes/Harbin/ski-entry.unity
+    guid: 67e3fc7ae15f51646a381a3c8c8c27dd
+  - enabled: 1
+    path: Assets/Scenes/Harbin/ski-internal.unity
+    guid: e3bf54b24e64f904b8f5fbd719b37bae
+  - enabled: 1
+    path: Assets/Scenes/Harbin/ski-rent.unity
+    guid: a375dbe382e786545be790adb164d8fa
+  - enabled: 1
+    path: Assets/Scenes/Harbin/slide-down.unity
+    guid: b2fe2c645c0a09041bd036ace6d5d081
+  - enabled: 1
+    path: Assets/Scenes/Harbin/slide-end.unity
+    guid: 1385b3e7840e14d4da59a18cee56a5ab
+  - enabled: 1
+    path: Assets/Scenes/Harbin/slide-entry.unity
+    guid: fea14668019e23b47bd76a2258b141ff
+  - enabled: 1
+    path: Assets/Scenes/Harbin/slide-far.unity
+    guid: a38990f32aa62ad4f86415c9e3304ae4
+  - enabled: 1
+    path: Assets/Scenes/Harbin/slide-top.unity
+    guid: e0ea2fa428cd6314ea3320f7828a58f5
+  - enabled: 1
+    path: Assets/Scenes/Harbin/snack-in.unity
+    guid: ac62abf3230f6904999f096dc2fa0520
+  - enabled: 1
+    path: Assets/Scenes/Harbin/snack-out.unity
+    guid: a12a952c49b4f654b8c4ca1c80f95389
+  - enabled: 1
+    path: Assets/Scenes/Harbin/station.unity
+    guid: c8b61fd0efba04f43bb9cc2682e30e94
+  - enabled: 1
+    path: Assets/Scenes/Harbin/subway.unity
+    guid: b501878e44546f342b646adb9d1a6d44
+  - enabled: 1
+    path: Assets/Scenes/Fire/onboard.unity
+    guid: 9893a3cc5efc86444a35dacbef8bd64c
+  - enabled: 1
+    path: Assets/Scenes/Fire/street.unity
+    guid: b83285981349b274aba5f870f08ff887
+  - enabled: 1
+    path: Assets/Scenes/Fire/fire-s3.unity
+    guid: 3ce72aad5cb4e09428d0bd97a363162a
+  - enabled: 1
+    path: Assets/Scenes/Fire/fire-s4-1.unity
+    guid: a6282895d8905cd418a6ead09f53fa54
+  - enabled: 1
+    path: Assets/Scenes/Fire/fire-s4-2.unity
+    guid: 9e1f952c2afa300489b7824d0062dbc0
+  - enabled: 1
+    path: Assets/Scenes/Fire/fire-s4-3.unity
+    guid: b8ce697733d0606448448dc99786b690
+  m_configObjects: {}
